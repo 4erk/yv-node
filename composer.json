@@ -1,7 +1,8 @@
 {
   "name":              "4erk/yv-node",
   "description":       "JS Node in PHP without EventTarget",
-  "minimum-stability": "dev",
+  "version":           "0.0.1",
+  "minimum-stability": "alpha",
   "license":           "GPL-3.0-only",
   "authors":           [
     {
