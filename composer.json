@@ -1,0 +1,19 @@
+{
+  "name":              "4erk/yv-node",
+  "description":       "JS Node in PHP without EventTarget",
+  "minimum-stability": "dev",
+  "license":           "GPL-3.0-only",
+  "authors":           [
+    {
+      "name":  "4erk",
+      "email": "mr4erk@gmail.com"
+    }
+  ],
+  "autoload":          {
+    "psr-4": {
+      "yv\\node\\": "src/"
+    }
+  },
+  "require":           {
+  }
+}
